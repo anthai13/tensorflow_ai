@@ -7,7 +7,7 @@ This can be done with or without cloud computing
 
 Google cloud instance
 ----------------------
-Create good cloud instance. 
+Create google cloud instance. 
 1.Click on the navigate windows.
 2.Under Compute go to Compute Engine
 3. Then go to Vm instances
